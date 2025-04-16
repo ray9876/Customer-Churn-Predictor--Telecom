@@ -32,7 +32,7 @@ A machine learning project built to predict customer churn using the Telco datas
 | `requirements.txt` | List of Python dependencies |
 | `README.md` | Project documentation (this file) |
 
----
+---The app will open in your browser at http://localhost:8501/
 
 ##  How to Run Locally
 
